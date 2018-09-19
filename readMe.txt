@@ -12,4 +12,4 @@ Azure Functions and Azure CosmosDB.
 
 Turned out to be very interesting! Enjoy.
 
-Dennis Landi September 2017
+Dennis Landi September 2017 
