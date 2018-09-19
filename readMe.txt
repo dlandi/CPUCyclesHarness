@@ -6,7 +6,7 @@ has been reached.
 
 I used a hypothetical C# Smart Contract as a loose metaphor to test out some code.
 
-One can see how this method could be used to meter code by cpu cycles. Something that Azure Cloud services to for things like
+One can see how this method could be used to meter code by cpu cycles. Something that Azure Cloud services uses for things like
 Azure Functions and Azure CosmosDB.
 
 
